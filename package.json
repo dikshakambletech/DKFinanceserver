@@ -1,7 +1,7 @@
 {
-  "name": "finwiz_server",
+  "name": "DKFinance_server",
   "version": "1.0.0",
-  "description": "The server for finwiz",
+  "description": "The server for DKFinance",
   "main": "src/index.ts",
   "scripts": {
     "build": "tsc --project ./",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KachiiC/FinWiz_server.git"
+    "url": "git+https://github.com"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KachiiC/FinWiz_server/issues"
+    "url": "https://github.com"
   },
-  "homepage": "https://github.com/KachiiC/FinWiz_server#readme",
+  "homepage": "https://github.com",
   "dependencies": {
     "@prisma/client": "^3.13.0",
     "axios": "^0.27.2",
